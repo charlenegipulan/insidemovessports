@@ -14,6 +14,7 @@ namespace Infrastructure.Data
 
             if (spec.Criteria != null)
             {
+                //get me a product where product is specified as this criteria
                 query = query.Where(spec.Criteria);
             }
 
