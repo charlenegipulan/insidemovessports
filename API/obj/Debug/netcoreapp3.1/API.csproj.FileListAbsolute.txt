@@ -62,3 +62,5 @@
 /Users/charlenegipulan/Desktop/InsideMoves-Sports/API/bin/Debug/netcoreapp3.1/Infrastructure.pdb
 /Users/charlenegipulan/Desktop/InsideMoves-Sports/API/bin/Debug/netcoreapp3.1/Core.dll
 /Users/charlenegipulan/Desktop/InsideMoves-Sports/API/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/charlenegipulan/Desktop/InsideMoves-Sports/API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/charlenegipulan/Desktop/InsideMoves-Sports/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
