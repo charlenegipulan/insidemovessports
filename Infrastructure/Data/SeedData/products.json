@@ -3,7 +3,7 @@
     "Name": "Waverunner 700",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 300,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "PictureUrl": "images/products/shoes-waverunner700.png",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   },
@@ -11,7 +11,7 @@
     "Name": "Kobe IV Proto FTB",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "PictureUrl": "images/products/shoes-kobeIVProtoFTB.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -19,7 +19,7 @@
     "Name": "Nike Air Max 95 Denham",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "PictureUrl": "images/products/shoes-nikeairmax95denham.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -27,7 +27,7 @@
     "Name": "OG New Balance 992 (2006 Release)",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
+    "PictureUrl": "images/products/shoes-ognewbalance992.png",
     "ProductTypeId": 1,
     "ProductBrandId": 4
   },
@@ -35,7 +35,7 @@
     "Name": "Kobe Bryant M&N Rookie Authentic Gold",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "PictureUrl": "images/products/jerseys-KobeBryantM&NRookieGold.png",
     "ProductTypeId": 1,
     "ProductBrandId": 3
   },
@@ -43,7 +43,7 @@
     "Name": "Lakers 2008 Conference Champions Hat",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 75,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "PictureUrl": "images/products/hats-lakers2008confchamps.png",
     "ProductTypeId": 3,
     "ProductBrandId": 2
   },
@@ -51,7 +51,7 @@
     "Name": "Darius Miles Clippers Authentic Jersey",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 315,
-    "PictureUrl": "images/products/hat-core1.png",
+    "PictureUrl": "images/products/jerseys-dariusmilesclippers.png",
     "ProductTypeId": 2,
     "ProductBrandId": 7
   },
@@ -59,15 +59,15 @@
     "Name": "Michael Jordan Authentic Bulls Jersey",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 300,
-    "PictureUrl": "images/products/hat-react1.png",
+    "PictureUrl": "images/products/jerseys-michaeljordanbulls.png",
     "ProductTypeId": 2,
     "ProductBrandId": 3
   },
   {
-    "Name": "2010 Lakers Championship Locker Room Hat",
+    "Name": "2020 Miami Heat Finals",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 160,
-    "PictureUrl": "images/products/hat-react2.png",
+    "PictureUrl": "images/products/hats-2020miamiheatfinals.png",
     "ProductTypeId": 3,
     "ProductBrandId": 2
   },
@@ -75,7 +75,7 @@
     "Name": "Undefeated x Nike Kobe 5 Proto 'What If' White",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
+    "PictureUrl": "images/products/shoes-undefeatedxnikekobe5protowhatif.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -83,7 +83,7 @@
     "Name": "Yeezy Boost 350 V2 - Israfil",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 330,
-    "PictureUrl": "images/products/glove-code2.png",
+    "PictureUrl": "images/products/shoes-yeezyboost350Israfil.png",
     "ProductTypeId": 1,
     "ProductBrandId": 5
   },
@@ -91,7 +91,7 @@
     "Name": "Air Jordan 1 Retro High 'Do The Right Thing' 2009 Release",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
     "Price": 400,
-    "PictureUrl": "images/products/glove-react1.png",
+    "PictureUrl": "images/products/shoes-airjordan1retroDoTheRightThing.png",
     "ProductTypeId": 1,
     "ProductBrandId": 6
   },
@@ -99,7 +99,7 @@
     "Name": "OG Nike Zoom Kobe 1 'Blackout' 2006 Release",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 300,
-    "PictureUrl": "images/products/glove-react2.png",
+    "PictureUrl": "images/products/shoes-nikezoomkobeBlackout.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -107,7 +107,7 @@
     "Name": "Air Jordan 11 Retro Low 'Lakers'",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
     "Price": 260,
-    "PictureUrl": "images/products/boot-redis1.png",
+    "PictureUrl": "images/products/shoes-airjordan11retrolowLakers.png",
     "ProductTypeId": 1,
     "ProductBrandId": 6
   },
@@ -115,7 +115,7 @@
     "Name": "Undefeated x Nike Kobe 5 Proto 'What If' Multicolor",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 289.99,
-    "PictureUrl": "images/products/boot-core2.png",
+    "PictureUrl": "images/products/shoes-undefeatedxnikeWhatIfMulticolo.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -123,7 +123,7 @@
     "Name": "2020 Finals MVP Lebron James Authentic Jersey",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
+    "PictureUrl": "images/products/jerseys-2020finalsLebron.png",
     "ProductTypeId": 2,
     "ProductBrandId": 1
   },
@@ -131,7 +131,7 @@
     "Name": "Allen Iverson Georgetown Hoyas Authentic Jersey",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 345,
-    "PictureUrl": "images/products/boot-ang2.png",
+    "PictureUrl": "images/products/jerseys-alleniversongeorgetown.png",
     "ProductTypeId": 2,
     "ProductBrandId": 3
   }
