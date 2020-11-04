@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mPNmUC61cH7km62fkQxSFSeEO6igL2QFKYvxTxmOx5enh5xPt2CPmRdMqjfmiTMgUtaL5BvesgHB2lN4ySeNZQ==",
+  "dgSpecHash": "AA4ecEStHTp6PTEWHXGYzMDui8YbeE5fcsBlFzX/h/1VZni/fJxFP99uYEnCkWvhECiP/JbIeEXH666xVRPchA==",
   "success": true,
   "projectFilePath": "/Users/charlenegipulan/Desktop/InsideMoves-Sports/API/API.csproj",
   "expectedPackageFiles": [
@@ -32,10 +32,14 @@
     "/Users/charlenegipulan/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
