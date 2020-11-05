@@ -28,6 +28,11 @@ namespace Infrastructure.Data
                 query = query.OrderByDescending(spec.OrderByDescending);
             }
 
+            if (spec.IsPagingEnabled)
+            {
+                query = query.Skip(spec.Skip).Take(spec.Take);
+            }
+
             //taking our include statements, and aggregate them and pass them into our query
             //which is gonna be an iqueryable and we pass this to our method to query DB
             query = spec.Includes.Aggregate(query, (current, include) => current.Include(include));
