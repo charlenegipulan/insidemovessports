@@ -6,8 +6,7 @@ import { ShopComponent } from './shop.component';
 
 @NgModule({
   declarations: [ShopComponent],
-  imports: [
-    CommonModule
-  ]
+  imports: [CommonModule],
+  exports: [ShopComponent],
 })
-export class ShopModule { }
+export class ShopModule {}
