@@ -13,6 +13,8 @@ export class ShopComponent implements OnInit {
   products: IProduct[];
   brands: IBrand[];
   types: IType[];
+  brandIdSelected: number;
+  typeIdSelected: number;
 
   constructor(private shopService: ShopService) {}
 
@@ -23,7 +25,7 @@ export class ShopComponent implements OnInit {
   }
 
   getProducts() {
-    this.shopService.getProducts().subscribe(
+    this.shopService.getProducts(this.brandIdSelected, this.typeIdSelected).subscribe(
       (response) => {
         this.products = response.data;
       },
@@ -34,9 +36,12 @@ export class ShopComponent implements OnInit {
   }
 
   getBrands() {
-    this.shopService.getBrands().subscribe(
-      (response) => {
-        this.brands = response;
+    this.shopService.getBrands().subscribe(response => {
+      //the response is an array of brand objects
+      //here we are creating another object to add to this array and when we use spread,
+      //it spreads all of the objects from that array and is simply adding on another object
+      //to the front, which is named all
+      this.brands = [{ id: 0, name: 'All' }, ...response];
       },
       (error) => {
         console.log(error);
@@ -45,13 +50,23 @@ export class ShopComponent implements OnInit {
   }
 
   getTypes() {
-    this.shopService.getTypes().subscribe(
-      (response) => {
-        this.types = response;
+    this.shopService.getTypes().subscribe(response => {
+        this.types = [{ id: 0, name: 'All' }, ...response];
       },
       (error) => {
         console.log(error);
       }
     );
   }
+
+  onBrandSelected(brandId: number) {
+    this.brandIdSelected = brandId;
+    this.getProducts();
+  }
+
+  onTypeSelected(typeId: number) {
+    this.typeIdSelected = typeId;
+    this.getProducts();
+  }
+
 }
