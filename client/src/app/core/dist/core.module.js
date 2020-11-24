@@ -15,12 +15,13 @@ var test_error_component_1 = require("./test-error/test-error.component");
 var not_found_component_1 = require("./not-found/not-found.component");
 var server_error_component_1 = require("./server-error/server-error.component");
 var ngx_toastr_1 = require("ngx-toastr");
+var section_header_component_1 = require("./section-header/section-header.component");
 var CoreModule = /** @class */ (function () {
     function CoreModule() {
     }
     CoreModule = __decorate([
         core_1.NgModule({
-            declarations: [nav_bar_component_1.NavBarComponent, test_error_component_1.TestErrorComponent, not_found_component_1.NotFoundComponent, server_error_component_1.ServerErrorComponent],
+            declarations: [nav_bar_component_1.NavBarComponent, test_error_component_1.TestErrorComponent, not_found_component_1.NotFoundComponent, server_error_component_1.ServerErrorComponent, section_header_component_1.SectionHeaderComponent],
             imports: [
                 common_1.CommonModule,
                 router_1.RouterModule,
@@ -29,7 +30,10 @@ var CoreModule = /** @class */ (function () {
                     preventDuplicates: true
                 })
             ],
-            exports: [nav_bar_component_1.NavBarComponent]
+            exports: [
+                nav_bar_component_1.NavBarComponent,
+                section_header_component_1.SectionHeaderComponent
+            ]
         })
     ], CoreModule);
     return CoreModule;
